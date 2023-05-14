@@ -78,5 +78,3 @@ while file_data_size >= maximum_segment_size and tail != 1:
 
 
 client_socket.close()
-sender.py
-Displaying sender.py.
