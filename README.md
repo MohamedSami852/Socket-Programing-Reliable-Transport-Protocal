@@ -1,4 +1,4 @@
-# Reliable-Transport-Protocal Socket Programing
+#Socket Programing "Reliable-Transport-Protocal"
 
 Reliable Transport Protocal  using UDP 
 The problem of reliable data transfer is of central importance in networking. A reliable
